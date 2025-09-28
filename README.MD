@@ -15,6 +15,15 @@ Grades are determined using the following scale:
 - D (60-69)
 - F (<60)
 
+### How to Use
+
+Go to the github.com/audgster/esep-grade-calculator repository and clone your fork to your local machine:
+
+```
+git clone github.com/<your-user>/esep-grade-calculator.git
+cd esep-grade-calculator
+```
+
 Requirements:
 ```
 Golang 1.24+
